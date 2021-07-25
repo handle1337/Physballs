@@ -8,7 +8,7 @@ Physballs is a small physics engine that I made for fun, and of course, learning
 
 ![Balls](https://github.com/0xHornet/Physballs/blob/main/docs/demos/demo1.gif)
 
-![Overflow](https://github.com/0xHornet/Physballs//docs/demos/demo2.gif)
+![Overflow](https://github.com/0xHornet/Physballs/blob/main/docs/demos/demo2.gif)
 
 ## Technologies
 * [Python 3.7.4](https://www.python.org/)
