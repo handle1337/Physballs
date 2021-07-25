@@ -6,9 +6,9 @@ Physballs is a small physics engine that I made for fun, and of course, learning
 
 ## Previews
 
-![Balls](https://github.com/xsync3d/Physballs/blob/master/docs/demos/demo1.gif)
+![Balls](https://github.com/0xHornet/Physballs/docs/demos/demo1.gif)
 
-![Overflow](https://github.com/xsync3d/Physballs/blob/master/docs/demos/demo2.gif)
+![Overflow](https://github.com/0xHornet/Physballs//docs/demos/demo2.gif)
 
 ## Technologies
 * [Python 3.7.4](https://www.python.org/)
@@ -18,7 +18,7 @@ Physballs is a small physics engine that I made for fun, and of course, learning
 To install Physballs you first need Python 3.7.x you will also need [git](https://github.com/git/git/blob/master/INSTALL).
 
 1. Open your terminal and paste the following command.
-`git clone https://github.com/xsync3d/Physballs`
+`git clone https://github.com/0xHornet/Physballs`
 if you're on windows you might want to open the folder where you want Physballs installed by pasting the directory in the terminal.
 e.g. `C:\Users\%UserName%\Desktop\Physballs`
 
